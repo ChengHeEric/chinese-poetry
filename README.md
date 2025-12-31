@@ -23,6 +23,10 @@ A serene, immersive reader for classical Chinese poetry built with **Next.js 16*
 * **Icons**: Lucide React
 * **Fonts**: Google Fonts (Ma Shan Zheng, Noto Serif SC)
 
+## Screenshots
+![Dynasty Sidebar](./asset/Screencast%20from%202025-12-31%2013-52-48%20(1).gif)
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -31,11 +35,11 @@ git clone [https://github.com/your-username/poetry-viewer.git](https://github.co
 cd poetry-viewer
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 npm install
 ```
-3. run the Development Server
+### 3. Run the Development Server
 ```bash
 npm run dev
 ```
